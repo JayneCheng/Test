@@ -1,11 +1,11 @@
-# -*- coding: utf-8 -*-
+ggggggg# -*- coding: utf-8 -*-
 # @Time    : 2019/3/11 20:52
 # @Author  : lemon_huahua
 # @Email   : 204893985@qq.com
 # @File    : run.py
 
 import sys
-sys.path.append('../')
+sys.path.append('./')
 print(sys.path)
 
 import unittest
